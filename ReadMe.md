@@ -1,3 +1,9 @@
+Usage:
+
+Click on the link below:
+
+https://scratch.mit.edu/projects/323005237
+
 This was my first project for CS50. We were asked to create a program in Scratch - anything we wanted.
 
 My program is a kind of interactive questionnaire, based on the kind of questionnaires you used to find and sometimes still find mostly in women’s magazines, ie. are you a, b or c, if you are mostly a’s, then you are……etc.
